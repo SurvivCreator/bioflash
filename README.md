@@ -7,10 +7,10 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 Chapter 1: The Human Orgnanism
 
 Quizzes
-Feedback Multiple Choice Quiz
-Animation: Positive and Negative Feedback (Quiz 1)
-Animation: Positive and Negative Feedback (Quiz 2)
-Animation: The Pleural Membranes
+  Feedback Multiple Choice Quiz
+  Animation: Positive and Negative Feedback (Quiz 1)
+  Animation: Positive and Negative Feedback (Quiz 2)
+  Animation: The Pleural Membranes
 
 More Resources
 Student Study Guide
