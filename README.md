@@ -13,9 +13,9 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 4. Animation: The Pleural Membranes
 
 ### More Resources
-Student Study Guide
-Flashcards
-Concentration
+1. Student Study Guide
+2. Flashcards
+3. Concentration
 
 Chatper 2:
 1. https://survivcreator.github.io/bioflash/enzymes
