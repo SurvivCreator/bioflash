@@ -18,8 +18,8 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 
 #### More Resources
 1. Student Study Guide
-2. Flashcards
-3. Concentration
+    *  Study Guide
+    *  Answer Key
 
 ### Chapter 2: The Chemical Basis of Life
 ---	
@@ -45,5 +45,5 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 
 #### More Resources
 1. Student Study Guide
-2. Flashcards
-3. Concentration
+    *  Study Guide
+    *  Answer Key
