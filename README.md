@@ -16,8 +16,18 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 2. Flashcards
 3. Concentration
 
-Chatper 2:
-1. https://survivcreator.github.io/bioflash/enzymes
-2. https://survivcreator.github.io/bioflash/diffusion
+### Chapter 2: The Human Orgnanism
 
-This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
+#### Quizzes
+1. Feedback Multiple Choice Quiz
+2. Animation: A Biochemical Pathway
+3. Animation: Feedback Inhibition of Biochemical Pathways
+4. Animation: Animation: How Enzymes Work
+5. Animation: Protein Denaturation
+6. Animation: Protein Synthesis (Quiz 1)
+7. Animation: Protein Synthesis (Quiz 2)
+
+#### More Resources
+1. Student Study Guide
+2. Flashcards
+3. Concentration
