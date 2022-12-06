@@ -22,7 +22,7 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 3. Concentration
 
 ### Chapter 2: The Human Orgnanism
-
+---	
 #### Quizzes
 1. Feedback Multiple Choice Quiz
     *  Quiz
@@ -47,3 +47,4 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 1. Student Study Guide
 2. Flashcards
 3. Concentration
+---	
