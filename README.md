@@ -20,13 +20,23 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 
 #### Quizzes
 1. Feedback Multiple Choice Quiz
-    *  List
+    *  Quiz
 2. Animation: A Biochemical Pathway
+    *  Animation
+    *  Quiz
 3. Animation: Feedback Inhibition of Biochemical Pathways
+    *  Animation
+    *  Quiz
 4. Animation: Animation: How Enzymes Work
+    *  Animation
+    *  Quiz
 5. Animation: Protein Denaturation
-6. Animation: Protein Synthesis (Quiz 1)
-7. Animation: Protein Synthesis (Quiz 2)
+    *  Animation
+    *  Quiz 
+6. Animation: Protein Synthesis
+    *  Animation
+    *  Quiz 1
+    *  Quiz 2
 
 #### More Resources
 1. Student Study Guide
