@@ -49,4 +49,4 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
     *  Study Guide
     *  Answer Key
 
-## University of Utah Learn.Genetics
+## University of Utah
