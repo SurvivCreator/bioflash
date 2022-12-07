@@ -1,4 +1,4 @@
-# BioFlash ⚡
+# BioFlash
 Just a repository to run a few old flash animations for my IB Biology HL class. ✌️
 
 This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
@@ -8,19 +8,19 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 ---	
 #### Quizzes
 1. Feedback Multiple Choice Quiz
-    *  [Quiz](https://survivcreator.github.io/bioflash/The%20Human%20Organism%20-%20Chapter%20Quiz.pdf) 
+    *  [Quiz](https://google.com) 
 2. Animation: Positive and Negative Feedback
-    *  Animation
-    *  Quiz 1
-    *  Quiz 2
+    *  [Animation](https://google.com)
+    *  [Quiz 1](https://google.com)
+    *  [Quiz 2](https://google.com)
 3. Animation: The Pleural Membranes
-    *  Animation
-    *  Quiz
+    *  [Animation](https://google.com)
+    *  [Quiz](https://google.com)
 
 #### More Resources
 1. Student Study Guide
-    *  Study Guide
-    *  Answer Key
+    *  [Study Guide](https://google.com)
+    *  [Answer Key](https://google.com)
 
 ### Chapter 2: The Chemical Basis of Life
 ---	
@@ -48,3 +48,5 @@ This is possible thanks to Ruffle! Check out Ruffle @ https://ruffle.rs/
 1. Student Study Guide
     *  Study Guide
     *  Answer Key
+
+## University of Utah Learn.Genetics
